@@ -1,0 +1,9 @@
+{
+  "id": "59d84f12-7e2a-478d-ae53-331b24f7e872",
+  "project_id": "d4b17042-84c2-4b78-8338-3164f3785094",
+  "sender": "CEO Agent",
+  "recipient": "Multi-Agent Pool",
+  "message": "Initiating refinement loop. Feedback received: 'which famous companies are in drone startups'. Selected Agents: competitor.",
+  "status": "refining",
+  "timestamp": 1781322500.3999553
+}

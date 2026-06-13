@@ -1,0 +1,9 @@
+{
+  "id": "0b9ec4a2-50c9-4645-ab46-eb92eb9cea73",
+  "project_id": "15f23a91-3ad9-4ffe-aaea-a286e13d86ff",
+  "sender": "System",
+  "recipient": "CEO Agent",
+  "message": "Live LLM Mode activated. Using model: gemini-2.0-flash.",
+  "status": "thinking",
+  "timestamp": 1781329408.6483886
+}

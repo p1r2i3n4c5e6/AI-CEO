@@ -1,0 +1,9 @@
+{
+  "id": "7dbdb83a-dd4d-4774-9235-36af06d26964",
+  "project_id": "f9df3e70-fa2a-42d5-8375-860213052a32",
+  "sender": "System",
+  "recipient": "Marketing Agent",
+  "message": "Live API call failed (Failed to communicate with Gemini API: Gemini API Error (400): API key not valid. Please pass a valid API key.). Falling back to Simulation Mode.",
+  "status": "thinking",
+  "timestamp": 1781327822.2933059
+}

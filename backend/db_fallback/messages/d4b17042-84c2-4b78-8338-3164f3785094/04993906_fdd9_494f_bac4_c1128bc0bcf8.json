@@ -1,0 +1,9 @@
+{
+  "id": "04993906-fdd9-494f-bac4-c1128bc0bcf8",
+  "project_id": "d4b17042-84c2-4b78-8338-3164f3785094",
+  "sender": "System",
+  "recipient": "Product Manager Agent",
+  "message": "[SIMULATION] Custom prompt active: 'You are a Product Manager Agent.\nYour job is to define the MVP (Minimum Viable Product) features and roadmap.\nYou must output a JSON object with the following structure:\n{\n  \"features\": [\n    {\n      \"id\": \"unique_feature_id\",\n      \"name\": \"Feature Name\",\n      \"tier\": \"Must-Have | Should-Have | Nice-to-Have\",\n      \"description\": \"Short description of what the feature does\",\n      \"effort\": \"Easy | Medium | High with rough timeline\"\n    }\n  ]\n}'",
+  "status": "thinking",
+  "timestamp": 1781320718.825018
+}

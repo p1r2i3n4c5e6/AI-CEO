@@ -1,0 +1,9 @@
+{
+  "id": "7e42ad8b-90f2-4c3b-8265-9871910dca9c",
+  "project_id": "test-project-123",
+  "sender": "System",
+  "recipient": "Product Manager Agent",
+  "message": "[SIMULATION] Custom prompt active: 'Focus only on mobile-first applications with agricultural chat bots'",
+  "status": "thinking",
+  "timestamp": 1781319965.0292995
+}

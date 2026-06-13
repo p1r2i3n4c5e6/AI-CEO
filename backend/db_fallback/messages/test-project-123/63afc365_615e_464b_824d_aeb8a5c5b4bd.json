@@ -1,0 +1,9 @@
+{
+  "id": "63afc365-615e-464b-824d-aeb8a5c5b4bd",
+  "project_id": "test-project-123",
+  "sender": "CEO Agent",
+  "recipient": "Product Manager Agent",
+  "message": "Product Manager Agent: Draft our MVP feature specification. Prioritize into Must-Have, Should-Have, and Nice-to-Have tiers.",
+  "status": "thinking",
+  "timestamp": 1781319965.027301
+}

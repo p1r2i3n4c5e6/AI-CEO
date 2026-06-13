@@ -1,0 +1,9 @@
+{
+  "id": "499233f4-c2c2-4dcb-9f3a-0c46b1fa4029",
+  "project_id": "d4b17042-84c2-4b78-8338-3164f3785094",
+  "sender": "CEO Agent",
+  "recipient": "Multi-Agent Pool",
+  "message": "Initiating refinement loop. Feedback received: 'search everyting related to drones'. Selected Agents: market, competitor, product, design, finance, marketing, legal.",
+  "status": "refining",
+  "timestamp": 1781320714.0096948
+}

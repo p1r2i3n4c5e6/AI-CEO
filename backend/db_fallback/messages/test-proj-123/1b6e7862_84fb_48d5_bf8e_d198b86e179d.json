@@ -1,0 +1,9 @@
+{
+  "id": "1b6e7862-84fb-48d5-bf8e-d198b86e179d",
+  "project_id": "test-proj-123",
+  "sender": "CEO Agent",
+  "recipient": "Multi-Agent Pool",
+  "message": "Analyzing all compiled plans. Running cross-agent verification loop...",
+  "status": "critique",
+  "timestamp": 1781327633.4585958
+}

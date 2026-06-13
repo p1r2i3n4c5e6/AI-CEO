@@ -1,0 +1,276 @@
+{
+  "id": "1e52f8b1-d6d6-471c-b7a2-441a544dc012",
+  "name": "AgriIntel",
+  "idea": "Build a precision agriculture platform for smart soil analysis",
+  "status": "completed",
+  "created_at": "2026-06-13T09:16:34.293505",
+  "api_key_configured": false,
+  "artifacts": {
+    "market_report": {
+      "market_size_tam": "$12.4 Billion (Global Smart Agriculture)",
+      "market_size_sam": "$3.2 Billion (APAC & North America Precision Farming)",
+      "market_size_som": "$180 Million (Targeting small-to-medium scale farmers in India & SEA)",
+      "growth_rate_cagr": "14.2% annually (2025-2032)",
+      "key_trends": [
+        "Precision agriculture using local soil and weather telemetry.",
+        "Mobile-first vernacular AI assistants for farmers without technical backgrounds.",
+        "Supply chain disintermediation (directly connecting growers to bulk buyers)."
+      ],
+      "target_demographics": "Farmers aged 28-55, agricultural cooperatives, and local crop distributors. (Updated per feedback: Optimize TAM estimates and add crop disease tracking feature to MVP list.)",
+      "market_barriers": "High initial tech skepticism, limited internet bandwidth in deep rural zones, fragmented land holdings."
+    },
+    "competitor_analysis": {
+      "competitors": [
+        {
+          "name": "CropIn",
+          "strengths": "Established enterprise network, global contracts",
+          "weaknesses": "Complex UI, expensive pricing for individual farmers, lacks conversational AI",
+          "our_advantage": "Direct voice-controlled vernacular assistant, instant hyper-local advice"
+        },
+        {
+          "name": "Farmsio",
+          "strengths": "Good supply chain integration tools",
+          "weaknesses": "Slow onboarding, requires manual data entries",
+          "our_advantage": "Autonomous IoT and satellite photo scanning, zero-friction setup"
+        },
+        {
+          "name": "KhetiGaadi",
+          "strengths": "Strong tractor rental marketplace network",
+          "weaknesses": "Lacks scientific predictive modeling",
+          "our_advantage": "Predictive AI crop rotation and yield forecasting algorithms"
+        }
+      ],
+      "swot_analysis": {
+        "strengths": [
+          "Proprietary lightweight AI models",
+          "Conversational interface requiring zero training",
+          "Highly scalable serverless backend architecture"
+        ],
+        "weaknesses": [
+          "Brand new market entry",
+          "Requires initial seeding of trust",
+          "Dependency on third-party cloud infrastructure"
+        ],
+        "opportunities": [
+          "Rapid smartphone adoption in target groups",
+          "Government subsidies for digital modernization",
+          "Strategic partnerships with local supply hubs"
+        ],
+        "threats": [
+          "Cloning of features by cash-rich incumbents",
+          "Rapid fluctuations in data API pricing",
+          "Regulatory privacy compliance changes"
+        ]
+      }
+    },
+    "mvp_features": [
+      {
+        "id": "feat_1",
+        "name": "Vernacular Audio Assistant",
+        "tier": "Must-Have",
+        "description": "Speak in regional languages (Hindi, Spanish, Telugu) to ask soil or crop questions, translating voice to text and querying AI CEO.",
+        "effort": "Medium (3 weeks)"
+      },
+      {
+        "id": "feat_2",
+        "name": "Satellite Leaf Disease Scanner",
+        "tier": "Must-Have",
+        "description": "Upload a photo of a crop leaf; the image processing model detects pest infestations or nutrient deficiencies in 3 seconds.",
+        "effort": "High (5 weeks)"
+      },
+      {
+        "id": "feat_3",
+        "name": "Hyperlocal Weather & Action Planner",
+        "tier": "Should-Have",
+        "description": "Fetches meteorological datasets to recommend irrigation plans, suggesting exact optimal watering hours.",
+        "effort": "Easy (1 week)"
+      },
+      {
+        "id": "feat_4",
+        "name": "Direct B2B Market Link",
+        "tier": "Nice-to-Have",
+        "description": "List harvest yields to local pre-approved distributors, skipping traditional retail middle-men.",
+        "effort": "High (6 weeks)"
+      },
+      {
+        "id": "feat_5",
+        "name": "Feature FEAT_5 (Refined)",
+        "tier": "Must-Have",
+        "description": "Refinement request: Optimize TAM estimates and add crop disease tracking feature to MVP list.",
+        "effort": "Easy (1 week)"
+      }
+    ],
+    "revenue_model": {
+      "pricing": {
+        "free_tier_limit": "5 searches/mo",
+        "premium_monthly_cost": 29.0,
+        "enterprise_monthly_cost": 199.0
+      },
+      "calculator_defaults": {
+        "monthly_visitors": 5000,
+        "conversion_rate": 2.5,
+        "churn_rate": 5.0,
+        "premium_percentage": 90,
+        "enterprise_percentage": 10
+      },
+      "projections_narrative": "At 5,000 monthly visitors converting at 2.5%, we add 125 new subscribers per month. With standard churn, year 1 ARR will exceed $50K with high margins."
+    },
+    "marketing_plan": {
+      "gtm_channels": [
+        {
+          "channel": "SEO & Content Marketing",
+          "desc": "Write guides on solving user pain points, driving organic visits."
+        },
+        {
+          "channel": "Community Outreach",
+          "desc": "Partnerships with niche community groups, forums, and local co-ops."
+        },
+        {
+          "channel": "Referral Programs",
+          "desc": "Give discounts to current users for introducing neighbor businesses."
+        }
+      ],
+      "timeline_90_days": [
+        {
+          "days": "1-30",
+          "tasks": [
+            "Launch landing page waitlist",
+            "Seed local community forums",
+            "Interview 25 target customers"
+          ]
+        },
+        {
+          "days": "31-60",
+          "tasks": [
+            "Deploy private beta to 50 users",
+            "Publish 10 educational blog posts",
+            "Setup initial email newsletter"
+          ]
+        },
+        {
+          "days": "61-90",
+          "tasks": [
+            "Launch public version",
+            "Activate B2B ambassador program",
+            "Scale organic search engine indexing"
+          ]
+        }
+      ]
+    },
+    "legal_checklist": [
+      {
+        "topic": "Data Protection",
+        "compliance": "GDPR / CCPA data collection notice for user-submitted files and browser telemetry.",
+        "status": "Required before Beta"
+      },
+      {
+        "topic": "Terms of Service",
+        "compliance": "Disclaimers stating that AI agent recommendations are for guidance and do not constitute certified legal/financial advisory.",
+        "status": "Required at Launch"
+      },
+      {
+        "topic": "Corporate Registry",
+        "compliance": "Forming a limited liability entity (LLC or Private Limited) to protect founders from liability.",
+        "status": "Target: Month 3"
+      },
+      {
+        "topic": "Licensing Contracts",
+        "compliance": "Creating structured terms for bulk agricultural distributors or enterprise users.",
+        "status": "Target: Month 6"
+      }
+    ],
+    "pitch_deck": [
+      {
+        "slide": "1",
+        "title": "Introducing AgriIntel",
+        "bullets": [
+          "Autonomous Agentic Ecosystem for targeted industry solutions.",
+          "Addressing the prompt: 'Build a precision agriculture platform for smart soil analysis'.",
+          "Bridging scientific reasoning with simple, accessible user controls."
+        ]
+      },
+      {
+        "slide": "2",
+        "title": "The Core Problem",
+        "bullets": [
+          "Current systems lack real-time context-specific intelligence.",
+          "Audience experiences critical bottlenecks and severe efficiency loss.",
+          "Existing tech requires heavy user onboarding and manual configuration."
+        ]
+      },
+      {
+        "slide": "3",
+        "title": "Our AI CEO Solution",
+        "bullets": [
+          "Orchestrates 7 specialized agents (Product, Market, Finance, Legal, etc.)",
+          "Runs verification loops to check market suitability vs MVP costs.",
+          "Real-time refinement capability based on continuous stakeholder critique."
+        ]
+      },
+      {
+        "slide": "4",
+        "title": "Market Opportunity",
+        "bullets": [
+          "TAM: $12.4 Billion (Global Smart Agriculture)",
+          "SOM: $180 Million (Targeting small-to-medium scale farmers in India & SEA)",
+          "Highly promising growth rate of 14.2% annually (2025-2032)."
+        ]
+      },
+      {
+        "slide": "5",
+        "title": "Product MVP Specs",
+        "bullets": [
+          "Phase 1: Launch Vernacular Audio Assistant (Must-Have)",
+          "Phase 2: Integrate Satellite Leaf Disease Scanner (Must-Have)",
+          "High-frequency analytics dashboard for end-to-end management."
+        ]
+      },
+      {
+        "slide": "6",
+        "title": "Competitive Edge",
+        "bullets": [
+          "First conversational agent network specifically customized to this niche.",
+          "Zero-friction audio/image-telemetry pipelines.",
+          "40% lower operational software cost compared to incumbents."
+        ]
+      },
+      {
+        "slide": "7",
+        "title": "Business & Pricing Model",
+        "bullets": [
+          "Tier 1: Free starter package (basic queries & scans).",
+          "Tier 2: Growth tier ($19 - $49/mo based on usage).",
+          "Tier 3: Enterprise custom portal configuration."
+        ]
+      },
+      {
+        "slide": "8",
+        "title": "Marketing & GTM Strategy",
+        "bullets": [
+          "Verifying market channels through local community groups.",
+          "Collaborating with bulk distributors and strategic suppliers.",
+          "Launching organic search optimizations targeting operational queries."
+        ]
+      },
+      {
+        "slide": "9",
+        "title": "Financial Projections",
+        "bullets": [
+          "Year 1 target: $150K ARR with 80% margins.",
+          "Customer Acquisition Cost (CAC) estimated under $15.",
+          "Month 6 target: Net-positive break-even operational phase."
+        ]
+      },
+      {
+        "slide": "10",
+        "title": "The Path Forward",
+        "bullets": [
+          "Finalize core agent refinement pipelines.",
+          "Alpha group deployments starting in Q3.",
+          "Seed investment round of $350K to scale API throughput."
+        ]
+      }
+    ],
+    "executive_summary": "**AgriIntel** is a revolutionary AI-powered platform designed to optimize operations for its target audience. By addressing the core problem: 'Build a precision agriculture platform for smart soil analysis', our platform introduces autonomous multi-agent analysis, real-time data integration, and predictive guidance. We empower our users to make data-driven decisions, streamline complex workflows, and increase efficiency by up to 45% within the first six months of deployment."
+  }
+}

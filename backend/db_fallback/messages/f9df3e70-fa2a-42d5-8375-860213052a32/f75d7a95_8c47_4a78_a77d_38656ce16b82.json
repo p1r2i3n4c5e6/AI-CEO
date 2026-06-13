@@ -1,0 +1,9 @@
+{
+  "id": "f75d7a95-8c47-4a78-a77d-38656ce16b82",
+  "project_id": "f9df3e70-fa2a-42d5-8375-860213052a32",
+  "sender": "System",
+  "recipient": "Market Research Agent",
+  "message": "Live refinement API call failed (Failed to communicate with Gemini API: Gemini API Error (400): API key not valid. Please pass a valid API key.). Falling back to Simulation Mode.",
+  "status": "thinking",
+  "timestamp": 1781327841.3707683
+}

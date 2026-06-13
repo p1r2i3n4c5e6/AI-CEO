@@ -1,0 +1,9 @@
+{
+  "id": "b7662dc7-f42a-4ba1-8849-dc6120c6c75b",
+  "project_id": "test-project-123",
+  "sender": "CEO Agent",
+  "recipient": "Market Research Agent",
+  "message": "Market Research Agent: Please conduct comprehensive market analysis, estimate TAM/SAM/SOM, and identify growth drivers.",
+  "status": "thinking",
+  "timestamp": 1781319960.9857423
+}

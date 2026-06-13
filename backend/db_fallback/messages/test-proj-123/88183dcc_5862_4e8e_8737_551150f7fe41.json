@@ -1,0 +1,9 @@
+{
+  "id": "88183dcc-5862-4e8e-8737-551150f7fe41",
+  "project_id": "test-proj-123",
+  "sender": "System",
+  "recipient": "CEO Agent",
+  "message": "API Key not found. Initiating high-fidelity autonomous simulation mode.",
+  "status": "thinking",
+  "timestamp": 1781327629.3853436
+}

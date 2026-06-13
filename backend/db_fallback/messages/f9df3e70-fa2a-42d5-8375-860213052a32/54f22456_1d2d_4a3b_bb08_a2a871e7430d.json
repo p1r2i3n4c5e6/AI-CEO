@@ -1,0 +1,9 @@
+{
+  "id": "54f22456-1d2d-4a3b-bb08-a2a871e7430d",
+  "project_id": "f9df3e70-fa2a-42d5-8375-860213052a32",
+  "sender": "System",
+  "recipient": "CEO Agent",
+  "message": "Live refinement API call failed (Failed to communicate with Gemini API: Gemini API Error (400): API key not valid. Please pass a valid API key.). Falling back to Simulation Mode.",
+  "status": "thinking",
+  "timestamp": 1781327862.2375288
+}

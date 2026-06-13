@@ -1,0 +1,9 @@
+{
+  "id": "52652156-2ecc-482b-82d5-dc79a1a3008f",
+  "project_id": "adf4fc48-a15a-4ee6-b625-4c882744a532",
+  "sender": "System",
+  "recipient": "Marketing Agent",
+  "message": "Live API call failed (Failed to communicate with Gemini API: Gemini API Error (429): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\nPlease retry in 8.963982571s.). Falling back to Simulation Mode.",
+  "status": "thinking",
+  "timestamp": 1781328229.6906915
+}

@@ -1,0 +1,9 @@
+{
+  "id": "e7a31073-bcf4-493a-a4d1-b51e183ed722",
+  "project_id": "2b85a98f-23d4-4ddd-9224-01642eefdb0a",
+  "sender": "System",
+  "recipient": "CEO Agent",
+  "message": "Generation failed: Failed to communicate with Gemini API: Gemini API Error (404): models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "status": "failed",
+  "timestamp": 1781326681.9535332
+}

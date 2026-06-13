@@ -1,0 +1,9 @@
+{
+  "id": "4b65f07c-875c-4bbc-9ebf-3d1486cdc432",
+  "project_id": "b06d8d9a-0d87-48cc-bb65-bd26f65cde1f",
+  "sender": "System",
+  "recipient": "CEO Agent",
+  "message": "Generation failed: Failed to communicate with Gemini API: Gemini API Error (503): This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+  "status": "failed",
+  "timestamp": 1781326852.5515914
+}

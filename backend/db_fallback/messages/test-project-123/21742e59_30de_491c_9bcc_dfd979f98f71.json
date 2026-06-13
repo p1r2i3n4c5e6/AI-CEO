@@ -1,0 +1,9 @@
+{
+  "id": "21742e59-30de-491c-9bcc-dfd979f98f71",
+  "project_id": "test-project-123",
+  "sender": "CEO Agent",
+  "recipient": "Finance Agent",
+  "message": "Reviewing pricing tiers. Are these subscription prices affordable for the target demographics?",
+  "status": "critique",
+  "timestamp": 1781319979.1599576
+}

@@ -1,0 +1,9 @@
+{
+  "id": "819d39c0-f8cb-4bd4-9316-65d24e586813",
+  "project_id": "9f6b7c78-9b83-49a5-9cbb-da143ee7ffb1",
+  "sender": "CEO Agent",
+  "recipient": "Multi-Agent Pool",
+  "message": "Initiating refinement loop. Feedback received: 'Optimize GTM roadmap and add visual telemetry guidelines to UI/UX.'. Selected Agents: market, product, design.",
+  "status": "refining",
+  "timestamp": 1781327766.0323987
+}
